@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'My Perfect Hotel',
-  description: 'A cozy idle hotel management game — seat guests, collect cash, clean rooms, and grow your hotel.',
+  title: 'Water Sort Puzzle',
+  description: 'A relaxing color sorting puzzle — pour water between tubes until each holds a single color.',
   generator: 'v0.app',
   icons: {
     icon: [
